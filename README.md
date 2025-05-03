@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @AlyaAlshammari
-- 👀 I’m interested in the Security and Privacy of ML
-- 🌱 I’m currently teaching  ML for Security Course
-- 💞️ I’m looking to collaborate on ML Research
-- 📫 How to reach me email
+
+- 🔐 I'm passionate about Security and Privacy in Machine Learning
+
+- 🎓 Currently a PhD candidate at King Abdulaziz University (KAU)
+
+- 🤝 Open to collaborations on ML research projects
+
+- 📫 Reach me via email
 
 
 <!---
